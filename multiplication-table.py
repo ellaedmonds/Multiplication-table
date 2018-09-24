@@ -27,4 +27,4 @@ l = int(input ('Height of multiplication table: '))
 for i in range(1,(w+1)):
         print(end=" \n ")
         for j in range(1,(l+1)):
-            print (i*j,end=" ")
+            print (i*j,end=" ",)
